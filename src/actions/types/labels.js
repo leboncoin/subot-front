@@ -1,0 +1,5 @@
+export const POST_LABEL_START = 'POST_LABEL_START';
+export const POST_LABEL_END = 'POST_LABEL_END';
+
+export const GET_LABELS_START = 'GET_LABELS_START';
+export const GET_LABELS_END = 'GET_LABELS_END';
